@@ -81,7 +81,7 @@ class ViewRegistry:
                 if 1 <= animal_type <= 2:
                     return animal_type
                 else:
-                    print("Invalid input. Please enter valid integers from 1 to 6")
+                    print("Invalid input. Please enter valid integers (1 or 2)")
             except ValueError:
                 print("Invalid input. Please enter valid integers.")
 

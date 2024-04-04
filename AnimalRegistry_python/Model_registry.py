@@ -1,4 +1,4 @@
-from HumanFriends import *
+from AnimalRegistry_python.HumanFriends import *
 
 
 class ModelRegistry:
